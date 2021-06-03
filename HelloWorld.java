@@ -1,8 +1,8 @@
 /** 
- * La classe HelloWorldApp implémente une application qui imprime simplement "Hello World" sur une sortie standard.
+ * The HelloWorldApp class implements an application that simply prints "Hello World" to standard output.
  */
- classe  publique HelloWorld {
-  public  static  void  main ( String [] args ) {
-    Système . dehors . println( " Bonjour tout le monde " );
+public class HelloWorld {
+  public static void main(String[] args) {
+    System.out.println("Hello, World");
   }
 }
